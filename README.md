@@ -32,5 +32,5 @@
 ##
 <div>
   <a href="https://github.com/JoaoFelipeKraemer">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoFelipeKraemers&show_icons=true&locale=en&theme=tokyonight" alt="joaofelipe" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoFelipeKraemer&show_icons=true&locale=en&theme=tokyonight" alt="joaofelipe" />
 <div/>
