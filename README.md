@@ -31,9 +31,9 @@
   <img align="center" alt="João-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
   <img align="center" alt="João-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </div>
-###
 
-<div>
+
+###<div>
   <a href="https://github.com/JoaoFelipeKraemer">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoFelipeKraemer&show_icons=true&locale=en&theme=tokyonight" alt="joaofelipe" />
 <div/>
