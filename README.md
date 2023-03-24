@@ -11,7 +11,7 @@
  
 </div>
 
-###
+
 
 <h3>Linguagens, tecnologias e ferramentas</h3>
 <div style="display: inline_block">
@@ -31,7 +31,7 @@
   <img align="center" alt="João-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
   <img align="center" alt="João-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </div>
-
+###
 
 <div>
   <a href="https://github.com/JoaoFelipeKraemer">
