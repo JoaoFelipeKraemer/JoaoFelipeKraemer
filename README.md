@@ -1,5 +1,5 @@
 ### Eu sou João Felipe Kraemer Silveira estudante de Desenvolvimento web na Trybe
- Aficcionado por tecnologia desde a mais tenra idade, quando apresentado ao mundo dos video games, embora gostasse muito da área da tecnologia só me aventurei nela de fato mais recentemente quando me matriculei no curso de desenvolvimento web da Trybe, durante a minha formação, tive a oportunidade de aprender habilidades essenciais como, front-end, back-end, ciência da computação e metodologias ágeis. Antes disso tive muitas experiências ao longo dos anos abri minha própria empresa e cursei nove semestres de Direito .  
+ Aficionado por tecnologia desde a mais tenra idade, quando apresentado ao mundo dos video games, embora gostasse muito da área da tecnologia só me aventurei nela de fato mais recentemente quando me matriculei no curso de desenvolvimento web da Trybe, durante a minha formação, tive a oportunidade de aprender habilidades essenciais como, front-end, back-end, ciência da computação e metodologias ágeis. Antes disso tive muitas experiências ao longo dos anos abri minha própria empresa e cursei nove semestres de Direito .  
 
 
 
